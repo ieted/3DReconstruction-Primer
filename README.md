@@ -1,2 +1,3 @@
 # 3DReconstruction-Primer
-Related codes for beginners.
+Related codes/docs for beginners. 
+Copyright 2015 Ke Li (ietedli@gmail.com)
